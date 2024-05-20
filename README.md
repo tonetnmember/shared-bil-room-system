@@ -1,4 +1,4 @@
-# -
+# 本无人自助共享台球室系统后台开发使用Java技术栈开发后台服务 springboot+mybatis+mysql+redis、用户端uniapp（vue语法）、管理后台 vue+elementUi
 本系统Java后台开发基于springboot共享台球室系统无人自助共享台球室系统
 本产品是自研独立研发的产品！根据实现业务场景可承接二次定制开发！有售后系统稳定运行！
 
